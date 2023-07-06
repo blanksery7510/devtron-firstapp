@@ -1,6 +1,6 @@
 # app/Dockerfile
 
-FROM python:3.9-slim
+FROM sh-harbor.mthreads.com/mcc-flow/python:3.8-slim-burster
 
 WORKDIR /app
 
